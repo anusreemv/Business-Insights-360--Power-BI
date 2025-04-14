@@ -94,7 +94,7 @@ To correct course, AtliQ aimed to **embrace analytics** for informed, data-backe
 
 ## 🔗 Live Report
 
-👉 [Explore the Live Power BI Dashboard](https://lnkd.in/e4z7GNTU)
+👉 [Explore the Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmE2YjMwYmYtNGNmNi00YWZhLTk0OWItOTBhNDllMTc1MzdiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=84d535d79a7a08dca7a5)
 
 ---
 
