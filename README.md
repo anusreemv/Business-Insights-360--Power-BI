@@ -100,7 +100,7 @@ To correct course, AtliQ aimed to **embrace analytics** for informed, data-backe
 
 # 🤝 Connect with Me
 
-📫 **Email:** [your.email@example.com](mailto:anusreemv.6@gmail.com)  
+📫 **Email:** anusreemv.6@gmail.com
 🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
 
 I'm always open to feedback, collaboration, and new opportunities!
