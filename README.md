@@ -101,7 +101,8 @@ To correct course, AtliQ aimed to **embrace analytics** for informed, data-backe
 # 🤝 Connect with Me
 
 📫 **Email:** anusreemv.6@gmail.com
-🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+
+🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/anusreemv)
 
 I'm always open to feedback, collaboration, and new opportunities!
 
