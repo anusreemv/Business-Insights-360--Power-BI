@@ -34,14 +34,14 @@ To correct course, AtliQ aimed to **embrace analytics** for informed, data-backe
 - P&L trends: Gross Sales, Net Sales, COGS, and Net Profit
 - Visual profit analysis to support financial planning
   
-![Finance View](finance.png)
+  ![Finance View](finance.png)
 
 ### 📈 [Sales View](https://github.com/anusreemv/Business-Insights-360--Power-BI/blob/main/Sales_View.pdf)
 - Customer and product-level analysis
 - Unit economics: Net Sales vs Gross Margin
 - Growth matrix for performance benchmarking
 
-![Sales View](sales.png)
+  ![Sales View](sales.png)
 
 ### 📢 [Marketing View](https://github.com/anusreemv/Business-Insights-360--Power-BI/blob/main/Marketing_View.pdf)
 - Product and regional performance tracking
@@ -59,7 +59,7 @@ To correct course, AtliQ aimed to **embrace analytics** for informed, data-backe
 - High-level KPIs across divisions
 - AtliQ Market Share and Top N Products/Customers
 
- ![Executive View](executive.png)
+  ![Executive View](executive.png)
 ---
 
 ## 🧠 [View Data Model](https://github.com/anusreemv/Business-Insights-360--Power-BI/blob/main/Data_Model.pdf)
