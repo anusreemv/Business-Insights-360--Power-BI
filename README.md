@@ -30,26 +30,36 @@ To correct course, AtliQ aimed to **embrace analytics** for informed, data-backe
 ## 🧩 Functional Dashboard Views
 
 ### 💰 [Finance View](https://github.com/anusreemv/Business-Insights-360--Power-BI/blob/main/Finance_View.pdf)
+
 - P&L trends: Gross Sales, Net Sales, COGS, and Net Profit
 - Visual profit analysis to support financial planning
+  
+![Finance View](finance.png)
 
 ### 📈 [Sales View](https://github.com/anusreemv/Business-Insights-360--Power-BI/blob/main/Sales_View.pdf)
 - Customer and product-level analysis
 - Unit economics: Net Sales vs Gross Margin
 - Growth matrix for performance benchmarking
 
+![Sales View](sales.png)
+
 ### 📢 [Marketing View](https://github.com/anusreemv/Business-Insights-360--Power-BI/blob/main/Marketing_View.pdf)
 - Product and regional performance tracking
 - Insights to support campaign targeting and optimization
 
-### 🚚 [Supply Chain View](https://github.com/anusreemv/Business-Insights-360--Power-BI/blob/main/Supply_Chain_View.pdf))
+  ![Marketing View](marketing.png)
+
+### 🚚 [Supply Chain View](https://github.com/anusreemv/Business-Insights-360--Power-BI/blob/main/Supply_Chain_View.pdf)
 - Forecast Accuracy, Net Error, and Risk Categorization
 - Drill-down by product, segment, and customer
 
-### 📉 [Executive View](https://github.com/anusreemv/Business-Insights-360--Power-BI/blob/main/Executive_View.pdf))
+  ![Supply chain View](supply%20chain.png)
+
+### 📉 [Executive View](https://github.com/anusreemv/Business-Insights-360--Power-BI/blob/main/Executive_View.pdf)
 - High-level KPIs across divisions
 - AtliQ Market Share and Top N Products/Customers
 
+ ![Executive View](executive.png)
 ---
 
 ## 🧠 [View Data Model](https://github.com/anusreemv/Business-Insights-360--Power-BI/blob/main/Data_Model.pdf)
